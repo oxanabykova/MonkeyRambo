@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d33ff556c78f0db4db403a46ca8cae0c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Grinched
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cf030e1c7e7a12346b48a963fce7f3cd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
